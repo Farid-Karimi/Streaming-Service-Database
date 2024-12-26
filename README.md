@@ -1,9 +1,8 @@
-# Database Design and Implementation for a Streaming Service Platform
+# Database Design & Implementation for a Streaming Service Platform
 
 ## Project Overview
 For this project, I designed and implemented a database system tailored for a streaming service platform. The goal was to create a structure that could effectively handle users, media content, subscriptions, payments, and more. The work was split into two main phases: **Database Design and Analysis** and **Implementation and Optimization**.
 
----
 
 ## Phase 1: Database Design and Analysis
 This phase was all about sketching out the structure and relationships of the database. I created both **Enhanced Entity-Relationship (EER)** and **UML-style diagrams**, which are available in the [diagrams folder](https://github.com/Farid-Karimi/DB-Project/tree/master/Diagrams). To make it even more accessible, I also used [dbdiagram.io](https://dbdiagram.io/d/DB-Bonus-Project-phase-one-674b7223e9daa85aca3b9a09) to write the schema in DBML.
